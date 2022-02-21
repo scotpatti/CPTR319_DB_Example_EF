@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPTR319_DB_Example_EF", "CPTR319_DB_Example_EF\CPTR319_DB_Example_EF.csproj", "{F6480F48-DA8F-446D-9F7A-25CBF70D18DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6480F48-DA8F-446D-9F7A-25CBF70D18DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6480F48-DA8F-446D-9F7A-25CBF70D18DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6480F48-DA8F-446D-9F7A-25CBF70D18DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6480F48-DA8F-446D-9F7A-25CBF70D18DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38670E03-B6A3-48B2-B34B-2D3E8FBB8595}
+	EndGlobalSection
+EndGlobal
