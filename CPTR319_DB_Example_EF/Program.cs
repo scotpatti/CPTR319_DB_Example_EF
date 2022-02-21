@@ -54,7 +54,7 @@ foreach (var sc in studentclasses3)
 }
 Console.WriteLine("\r\n\r\n----Next Query----\r\n\r\n");
 
-//Althernative ways of doing this
+//Althernative ways of doing this using Link to SQL 
 var list = from o in context.Students
            where o.TotCred >= 80
            from t in o.Takes
